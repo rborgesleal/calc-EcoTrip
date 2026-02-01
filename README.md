@@ -117,6 +117,22 @@ python -m http.server 8000
 
 **Nota**: Não há necessidade de instalação de dependências, build ou servidor. O projeto roda diretamente no navegador!
 
+## 🌎 Deploy
+
+### 💚 GitHub Pages (Recomendado)
+
+1. Acesse as **Settings** do repositório
+2. Vá em **Pages** no menu lateral
+3. Em **Source**, selecione `main` branch
+4. Salve e aguarde alguns minutos
+5. Seu site estará disponível em: `https://celloweb-ai.github.io/calculadora-co2-transporte-br/`
+
+### 🚀 Outras Opções
+
+- **Netlify**: Arraste a pasta do projeto no [Netlify Drop](https://app.netlify.com/drop)
+- **Vercel**: Conecte o repositório GitHub no [Vercel](https://vercel.com/new)
+- **Firebase Hosting**: `firebase init` + `firebase deploy`
+
 ### 🎮 Passo a Passo
 
 1. Abra o arquivo `index.html` em seu navegador
