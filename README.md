@@ -125,7 +125,7 @@ python -m http.server 8000
 2. Vá em **Pages** no menu lateral
 3. Em **Source**, selecione `main` branch
 4. Salve e aguarde alguns minutos
-5. Seu site estará disponível em: `https://celloweb-ai.github.io/calculadora-co2-transporte-br/`
+5. Seu site estará disponível em: `https://rborgesleal.github.io/calc-EcoTrip/`
 
 ### 🚀 Outras Opções
 
